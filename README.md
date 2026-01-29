@@ -7,8 +7,6 @@ It allows users to upload an image of a plant leaf and instantly predicts the di
 
 ## 🚀 Live Demo
 🔗 **Hugging Face Space:**  
-https://huggingface.co/spaces/ravikeerthi7606/plant-disease-classifier
-🔗 **Hugging Face Space:**  
 https://ravi-7606-plant-disease-classification-demo.hf.space/?__theme=system&deep_link=-f0aSKQy_44
 
 
